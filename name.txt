@@ -1,2 +1,2 @@
-game start!
+game start! clever
 this is new branch
